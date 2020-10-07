@@ -21,7 +21,7 @@ A few types of the most common computers are Desktop and laptops and mobile devi
 **Hardware** provides basic computing resources for the system. This includes CPU, memory, IO devices, etc.
 
 A visual representation of the abstraction of a computer system structure can be depicted like this:
-![Abstract view of a computer system structure](ch1-1.png)
+![Abstract view of a computer system structure](images/ch1-1.png)
 
 ## Operating System<a name="os"></a>
 The term **Operating System** covers many roles due to the myriad of designs and uses for operating systems. They can be found not only in desktop, laptop or mobile computers - but also in household appliances, transportation, industrial control systems, to name a few.
